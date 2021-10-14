@@ -1,14 +1,14 @@
 module.exports = [
   {
-    title: 'book1',
-    isbn: 9781400079148,
+    title: 'A GIRLS GUIDE TO MOVING ON',
+    description: 'A mother and her daughter-in-law both leave unhappy marriages and take up with new men.',
   },
   {
     title: 'book2',
-    isbn: 9781400079144,
+    description: 'Both leave unhappy marriages and take up with new men.',
   },
   {
     title: 'book3',
-    isbn: 19781400079149,
+    description: 'Daughter-in-law both leave unhappy marriages and take up with new men.',
   }
 ];
