@@ -52,7 +52,7 @@ describe('app routes', () => {
       ];
 
       const data = await fakeRequest(app)
-        .get('/animals')
+        .get('/books')
         .expect('Content-Type', /json/)
         .expect(200);
 
